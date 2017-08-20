@@ -1,0 +1,54 @@
+sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
+Login,780,123445,104821,236942,427,289401,97.82%,.6,.2,65813.09
+Get pickup task today,1,82,82,82,82,82,0.00%,12.2,20.2,0.00
+Scan enroute to hub,1,100,100,100,100,100,0.00%,10.0,16.6,0.00
+Scan out for delivery ,1,125,125,125,125,125,0.00%,8.0,13.3,0.00
+POD ,1,92,92,92,92,92,0.00%,10.9,18.0,0.00
+Delivery failed,1,93,93,93,93,93,0.00%,10.8,17.9,0.00
+View invoice details of DEX - summary view - the biggest one,11,54678,658,180882,152,285883,36.36%,.0,.0,90774.42
+Login API Gateway _ E0009,9,50807,1463,106664,545,195672,44.44%,.0,.0,64632.58
+Login API Gateway _ Lazada,16,78537,70080,189965,792,285847,62.50%,.0,.0,83427.12
+Get merchant id,8,8296,367,700,188,63860,12.50%,.1,.5,21001.48
+View invoice details of DEx - the biggest one,10,12676,899,36287,495,62782,40.00%,.0,.8,20289.41
+Print invoice of Dex. The biggest one.,10,7608,307,1962,86,69846,40.00%,.0,.0,20757.56
+Create Delivery As E0009,9,74160,54018,184232,498,285088,55.56%,.0,.0,93509.46
+Get available drivers,1,498,498,498,498,498,0.00%,2.0,132.3,0.00
+Create Delivery As Lazada,6,857,590,1280,400,1694,0.00%,.4,.2,468.26
+Get service type id,7,9718,450,715,241,65492,14.29%,.1,.5,22769.76
+Get total pages of today unassigned pickup,1,428,428,428,428,428,0.00%,2.3,22.4,0.00
+Get user id,6,564,273,734,144,1419,0.00%,.5,.5,432.98
+Book Pickup E0009,8,16624,1184,38382,509,69533,50.00%,.0,.1,23740.67
+Create delivery - step 1,5,13010,719,1063,453,62106,20.00%,.1,.1,24548.67
+Get total pages of all orders,1,1086,1086,1086,1086,1086,0.00%,.9,22.1,0.00
+Bulk Upload Step 1- Create Draft,1,759,759,759,759,759,0.00%,1.3,1.0,0.00
+Get total pages of today pending pickup,1,202,202,202,202,202,0.00%,5.0,44.9,0.00
+Update delivery - before confirm,4,493,520,648,278,648,0.00%,.4,10.6,134.35
+Get total pages of arrived at hub tab,1,852,852,852,852,852,0.00%,1.2,55.2,0.00
+Bulk Upload Step 1- Update Data,1,1033,1033,1033,1033,1033,0.00%,1.0,.3,0.00
+Confirm delivery,4,1091,919,1513,895,1513,0.00%,.4,.1,249.50
+Get total pages of delivery failed tab,1,817,817,817,817,817,0.00%,1.2,52.9,0.00
+View delivery,4,413,334,591,328,591,0.00%,.4,1.0,106.44
+Bulk Upload Step 1- Upload File,1,869,869,869,869,869,0.00%,1.2,.4,0.00
+Print sticker ,4,16594,383,64935,207,64935,25.00%,.1,.0,27910.68
+Get orders of page 1,1,990,990,990,990,990,0.00%,1.0,24.3,0.00
+Get orders of page 2,1,1437,1437,1437,1437,1437,0.00%,.7,16.8,0.00
+Get orders of page 3,1,823,823,823,823,823,0.00%,1.2,28.8,0.00
+Get orders of page 4,1,1123,1123,1123,1123,1123,0.00%,.9,21.3,0.00
+Get orders of page 5,1,919,919,919,919,919,0.00%,1.1,26.1,0.00
+Get orders of page 6,1,1387,1387,1387,1387,1387,0.00%,.7,16.8,0.00
+Get orders of page 7,1,1029,1029,1029,1029,1029,0.00%,1.0,22.6,0.00
+Get orders of page 8,1,818,818,818,818,818,0.00%,1.2,28.5,0.00
+Get orders of page 9,1,61662,61662,61662,61662,61662,100.00%,.0,.0,0.00
+Bulk Upload Step 3 - Confirm ,1,66495,66495,66495,66495,66495,100.00%,.0,.0,0.00
+Get orders of page 10,1,61417,61417,61417,61417,61417,100.00%,.0,.0,0.00
+Get orders of page 11,1,62303,62303,62303,62303,62303,100.00%,.0,.0,0.00
+Get orders of page 12,1,97957,97957,97957,97957,97957,100.00%,.0,.0,0.00
+Get orders of page 13,1,70291,70291,70291,70291,70291,100.00%,.0,.0,0.00
+Get orders of page 14,1,81705,81705,81705,81705,81705,100.00%,.0,.0,0.00
+Get orders of page 15,1,156916,156916,156916,156916,156916,100.00%,.0,.0,0.00
+Get orders of page 16,1,192772,192772,192772,192772,192772,100.00%,.0,.0,0.00
+Get orders of page 17,1,172024,172024,172024,172024,172024,100.00%,.0,.0,0.00
+Get orders of page 18,1,64170,64170,64170,64170,64170,100.00%,.0,.0,0.00
+Get orders of page 19,1,107698,107698,107698,107698,107698,100.00%,.0,.0,0.00
+Get orders of page 20,1,133427,133427,133427,133427,133427,100.00%,.0,.0,0.00
+TOTAL,936,108154,95360,211631,82,289401,87.07%,.7,1.4,73338.38

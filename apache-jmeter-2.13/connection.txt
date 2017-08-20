@@ -1,0 +1,46 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:623               [::]:0                 LISTENING
+  TCP    [::]:1025              [::]:0                 LISTENING
+  TCP    [::]:1026              [::]:0                 LISTENING
+  TCP    [::]:1027              [::]:0                 LISTENING
+  TCP    [::]:1028              [::]:0                 LISTENING
+  TCP    [::]:1029              [::]:0                 LISTENING
+  TCP    [::]:1030              [::]:0                 LISTENING
+  TCP    [::]:3389              [::]:0                 LISTENING
+  TCP    [::]:16992             [::]:0                 LISTENING
+  TCP    [::1]:7031             [::]:0                 LISTENING
+  TCP    [::1]:7166             [::1]:7168             ESTABLISHED
+  TCP    [::1]:7168             [::1]:7166             ESTABLISHED
+  UDP    0.0.0.0:68             *:*                    
+  UDP    0.0.0.0:443            *:*                    
+  UDP    0.0.0.0:1900           *:*                    
+  UDP    0.0.0.0:3389           *:*                    
+  UDP    0.0.0.0:4445           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:12842          *:*                    
+  UDP    0.0.0.0:49152          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:49154        *:*                    
+  UDP    127.0.0.1:58789        *:*                    
+  UDP    127.0.0.1:59241        *:*                    
+  UDP    192.168.2.11:137       *:*                    
+  UDP    192.168.2.11:138       *:*                    
+  UDP    192.168.2.11:1900      *:*                    
+  UDP    192.168.2.11:1900      *:*                    
+  UDP    192.168.2.11:5353      *:*                    
+  UDP    192.168.2.11:58788     *:*                    
+  UDP    [::]:3389              *:*                    
+  UDP    [::]:4445              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:49153             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:58787            *:*                    
+  UDP    [fe80::9c59:29be:c9cd:e419%3]:546  *:*                    
+  UDP    [fe80::9c59:29be:c9cd:e419%3]:1900  *:*                    
+  UDP    [fe80::9c59:29be:c9cd:e419%3]:58786  *:*                    

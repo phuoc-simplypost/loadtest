@@ -1,0 +1,206 @@
+1457663434169,927,1. Load page and login,500,"Unable to locate element: {""method"":""id"",""selector"":""submitBtn""}
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e4224ff1-f98b-461a-af28-0a1688b660e4
+*** Element info: {Using=id, value=submitBtn}",Thread Group 1-1,text,false,2914,1,1,0
+1457663481706,898,1. Load page and login,500,"Unable to locate element: {""method"":""id"",""selector"":""submitBtn""}
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ec6bfafd-c6a5-4ab0-9017-a61c35af6fc9
+*** Element info: {Using=id, value=submitBtn}",Thread Group 1-1,text,false,2916,1,1,0
+1457663527862,4538,1. Load page and login,200,OK,Thread Group 1-1,text,true,32237,1,1,0
+1457663533856,4296,2. Create the single order,200,OK,Thread Group 1-1,text,true,105143,1,1,0
+1457663539880,23,3. From,500,"Unable to locate element: {""method"":""id"",""selector"":""companyName""}
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 448e5c86-3ca3-4405-bfaa-55a362fc23c3
+*** Element info: {Using=id, value=companyName}",Thread Group 1-1,text,false,2919,1,1,0
+1457663706904,5223,1. Load page and login,200,OK,Thread Group 1-1,text,true,32237,1,1,0
+1457663712902,3373,2. Create the single order,200,OK,Thread Group 1-1,text,true,105143,1,1,0
+1457663718904,500,3. From,500,"Unable to locate element: {""method"":""id"",""selector"":""postalCode""}
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9c7ec9ef-0892-489e-a017-d7bf65997b7c
+*** Element info: {Using=id, value=postalCode}",Thread Group 1-1,text,false,2918,1,1,0
+1457663842377,5778,1. Load page and login,200,OK,Thread Group 1-1,text,true,32237,1,1,0
+1457663848390,5814,2. Create the single order,200,OK,Thread Group 1-1,text,true,105141,1,1,0
+1457663854391,7701,3. From,200,OK,Thread Group 1-1,text,true,105804,1,1,0
+1457663862380,17323,4. To,200,OK,Thread Group 1-1,text,true,50500,1,1,0
+1457663879761,1143,5. Parcels,500,"Unable to locate element: {""method"":""id"",""selector"":""submitBtn""}
+Command duration or timeout: 1.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9599a04a-fd4a-49ea-b7e3-144ec548f480
+*** Element info: {Using=id, value=submitBtn}",Thread Group 1-1,text,false,2913,1,1,0
+1457663910123,5010,1. Load page and login,200,OK,Thread Group 1-1,text,true,32236,1,1,0
+1457663916123,4550,2. Create the single order,200,OK,Thread Group 1-1,text,true,105143,1,1,0
+1457663922122,4362,3. From,200,OK,Thread Group 1-1,text,true,105804,1,1,0
+1457663928139,3763,4. To,200,OK,Thread Group 1-1,text,true,50501,1,1,0
+1457663934136,179,5. Parcels,500,"Unable to locate element: {""method"":""id"",""selector"":""btn-submit""}
+Command duration or timeout: 35 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 88827dde-2986-42a2-95c5-a4ede52299ee
+*** Element info: {Using=id, value=btn-submit}",Thread Group 1-1,text,false,2918,1,1,0
+1457664099805,4763,1. Load page and login,200,OK,Thread Group 1-1,text,true,22605,1,1,0
+1457664105825,4094,2. Create the single order,200,OK,Thread Group 1-1,text,true,105142,1,1,0
+1457664111814,4932,3. From,200,OK,Thread Group 1-1,text,true,105804,1,1,0
+1457664117802,3943,4. To,200,OK,Thread Group 1-1,text,true,50501,1,1,0
+1457664123816,9928,5. Parcels,200,OK,Thread Group 1-1,text,true,65975,1,1,0
+1457664133815,17,6. Collection time,500,"Unable to locate element: {""method"":""class name"",""selector"":""highlightedBox""}
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 346693fa-ea4e-42fc-976e-613d9c8751ef
+*** Element info: {Using=class name, value=highlightedBox}",Thread Group 1-1,text,false,2956,1,1,0
+1457664554602,5366,1. Load page and login,200,OK,Thread Group 1-1,text,true,32237,1,1,0
+1457664560019,4080,2. Create the single order,200,OK,Thread Group 1-1,text,true,105143,1,1,0
+1457664564179,4563,3. From,200,OK,Thread Group 1-1,text,true,105804,1,1,0
+1457664568818,4831,4. To,200,OK,Thread Group 1-1,text,true,50501,1,1,0
+1457664573722,3639,5. Parcels,200,OK,Thread Group 1-1,text,true,54290,1,1,0
+1457664577417,102,6. Collection time,200,OK,Thread Group 1-1,text,true,65972,1,1,0
+1457664578685,61,7. Confirm $5 payment,500,"Unable to locate element: {""method"":""xpath"",""selector"":""//button[@type=\""submit\""][@name=\""companyId\""]""}
+Command duration or timeout: 58 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1369b5f0-0fe1-4146-bc35-a16b27a1579c
+*** Element info: {Using=xpath, value=//button[@type=""submit""][@name=""companyId""]}",Thread Group 1-1,text,false,3000,1,1,0
+1457664879955,4384,1. Load page and login,200,OK,Thread Group 1-1,text,true,32237,1,1,0
+1457664885963,3906,2. Create the single order,200,OK,Thread Group 1-1,text,true,105143,1,1,0
+1457664891968,4759,3. From,200,OK,Thread Group 1-1,text,true,105804,1,1,0
+1457664897969,3784,4. To,200,OK,Thread Group 1-1,text,true,50501,1,1,0
+1457664903958,3013,5. Parcels,200,OK,Thread Group 1-1,text,true,65976,1,1,0
+1457664909963,188,6. Collection time,200,OK,Thread Group 1-1,text,true,87013,1,1,0
+1457664915963,64,7. Collection service,500,"Unable to locate element: {""method"":""css selector"",""selector"":""table.table-service""}
+Command duration or timeout: 59 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cc073c21-1e02-48bb-a02d-9bd9afb6cd7e
+*** Element info: {Using=css selector, value=table.table-service}",Thread Group 1-1,text,false,2974,1,1,0
+1457664923286,5370,1. Load page and login,200,OK,Thread Group 1-1,text,true,32237,1,1,0
+1457664929295,15721,2. Create the single order,200,OK,Thread Group 1-1,text,true,105143,1,1,0
+1457664945094,5613,3. From,200,OK,Thread Group 1-1,text,true,105804,1,1,0
+1457664951092,4023,4. To,200,OK,Thread Group 1-1,text,true,38815,1,1,0
+1457664957105,3045,5. Parcels,200,OK,Thread Group 1-1,text,true,65976,1,1,0
+1457664963103,166,6. Collection time,200,OK,Thread Group 1-1,text,true,87013,1,1,0
+1457664969099,1074,7. Collection service,200,OK,Thread Group 1-1,text,true,84676,1,1,0
+1457664986672,1179,8. Confirm $5 payment,500,"Unable to locate element: {""method"":""xpath"",""selector"":""//button[@type=\""submit\""][@name=\""companyId\""]""}
+Command duration or timeout: 1.18 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 92704c51-b132-45a3-9145-f289b0734122
+*** Element info: {Using=xpath, value=//button[@type=""submit""][@name=""companyId""]}",Thread Group 1-1,text,false,2997,1,1,0
+1457665041455,4963,1. Load page and login,200,OK,Thread Group 1-1,text,true,32237,1,1,0
+1457665047454,4654,2. Create the single order,200,OK,Thread Group 1-1,text,true,105143,1,1,0
+1457665053456,3309,3. From,200,OK,Thread Group 1-1,text,true,94118,1,1,0
+1457665059456,3917,4. To,200,OK,Thread Group 1-1,text,true,50501,1,1,0
+1457665065467,3038,5. Parcels,200,OK,Thread Group 1-1,text,true,65976,1,1,0
+1457665071466,234,6. Collection time,200,OK,Thread Group 1-1,text,true,36698,1,1,0
+1457665077463,142,7. Collection service,200,OK,Thread Group 1-1,text,true,84677,1,1,0
+1457665083465,43,8. Confirm $5 payment,500,"Unable to locate element: {""method"":""xpath"",""selector"":""//button[@type=\""submit\""][@name=\""companyId\""]""}
+Command duration or timeout: 40 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 068c60b1-4def-4bf2-92aa-71a870eaaaa3
+*** Element info: {Using=xpath, value=//button[@type=""submit""][@name=""companyId""]}",Thread Group 1-1,text,false,3000,1,1,0
+1457665100563,5088,1. Load page and login,200,OK,Thread Group 1-1,text,true,32237,1,1,0
+1457665106573,4378,2. Create the single order,200,OK,Thread Group 1-1,text,true,105143,1,1,0
+1457665112576,4050,3. From,200,OK,Thread Group 1-1,text,true,105803,1,1,0
+1457665118562,3776,4. To,200,OK,Thread Group 1-1,text,true,50501,1,1,0
+1457665124572,2420,5. Parcels,200,OK,Thread Group 1-1,text,true,54290,1,1,0
+1457665130573,195,6. Collection time,200,OK,Thread Group 1-1,text,true,36698,1,1,0
+1457665136572,152,7. Collection service,200,OK,Thread Group 1-1,text,true,84672,1,1,0
+1457665142572,71,8. Confirm $5 payment,500,"Unable to locate element: {""method"":""xpath"",""selector"":""btn-confirm-payment""}
+Command duration or timeout: 67 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8e224632-c62d-41aa-a589-8d6a8e250541
+*** Element info: {Using=xpath, value=btn-confirm-payment}",Thread Group 1-1,text,false,2948,1,1,0
+1457665167470,5499,1. Load page and login,200,OK,Thread Group 1-1,text,true,32237,1,1,0
+1457665173492,4129,2. Create the single order,200,OK,Thread Group 1-1,text,true,105143,1,1,0
+1457665179468,4013,3. From,200,OK,Thread Group 1-1,text,true,105804,1,1,0
+1457665185480,3416,4. To,200,OK,Thread Group 1-1,text,true,38815,1,1,0
+1457665191477,2673,5. Parcels,200,OK,Thread Group 1-1,text,true,54289,1,1,0
+1457665197476,155,6. Collection time,200,OK,Thread Group 1-1,text,true,36698,1,1,0
+1457665203475,163,7. Collection service,200,OK,Thread Group 1-1,text,true,51198,1,1,0
+1457665209476,41,8. Confirm $5 payment,500,"Unable to locate element: {""method"":""id"",""selector"":""btn-confirm-payment""}
+Command duration or timeout: 37 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ee7e1ddb-8c0f-4f3a-9a5e-72c6c8ec7028
+*** Element info: {Using=id, value=btn-confirm-payment}",Thread Group 1-1,text,false,2936,1,1,0
+1457665219256,4674,1. Load page and login,200,OK,Thread Group 1-1,text,true,32236,1,1,0
+1457665225254,3367,2. Create the single order,200,OK,Thread Group 1-1,text,true,105143,1,1,0
+1457665231266,4636,3. From,200,OK,Thread Group 1-1,text,true,105802,1,1,0
+1457665237266,3736,4. To,200,OK,Thread Group 1-1,text,true,50501,1,1,0
+1457665243262,2998,5. Parcels,200,OK,Thread Group 1-1,text,true,65634,1,1,0
+1457665249262,229,6. Collection time,200,OK,Thread Group 1-1,text,true,36698,1,1,0
+1457665255263,149,7. Collection service,200,OK,Thread Group 1-1,text,true,72992,1,1,0
+1457665261263,69,8. Confirm $5 payment,500,"Element is not currently visible and so may not be interacted with
+Command duration or timeout: 29 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DESKTOP-0OCJVSG', ip: '10.10.15.149', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ad75bc8-fbf6-4e1a-8056-11c3a239d2cf",Thread Group 1-1,text,false,2624,1,1,0
+1457670706653,4781,1. Load page and login,200,OK,Thread Group 1-1,text,true,32237,1,1,0
+1457670712664,3929,2. Create the single order,200,OK,Thread Group 1-1,text,true,105141,1,1,0
+1457670718663,4190,3. From,200,OK,Thread Group 1-1,text,true,105804,1,1,0
+1457670724664,3754,4. To,200,OK,Thread Group 1-1,text,true,50501,1,1,0
+1457670730664,2568,5. Parcels,200,OK,Thread Group 1-1,text,true,64608,1,1,0
+1457670736664,173,6. Collection time,200,OK,Thread Group 1-1,text,true,36698,1,1,0
+1457670742663,190,7. Collection service,200,OK,Thread Group 1-1,text,true,84719,1,1,0
+1457670748665,122,8. Confirm $5 payment,200,OK,Thread Group 1-1,text,true,44795,1,1,0
+1457670754657,529,9. Logout,200,OK,Thread Group 1-1,text,true,8095,1,1,0
+1458556918330,5716,1. Load page and login,200,OK,Thread Group 1-1,text,true,33928,1,1,0
+1458556924124,3648,2. Create the single order,200,OK,Thread Group 1-1,text,true,106472,1,1,0
+1458556930164,5249,3. From,200,OK,Thread Group 1-1,text,true,107132,1,1,0
+1458556936149,5425,4. To,200,OK,Thread Group 1-1,text,true,51830,1,1,0
+1458556942139,4555,5. Parcels,200,OK,Thread Group 1-1,text,true,68681,1,1,0
+1458556948136,199,6. Collection time,200,OK,Thread Group 1-1,text,true,49442,1,1,0
+1458556954141,132,7. Collection service,200,OK,Thread Group 1-1,text,true,21568,1,1,0
+1458556960141,109,8. Confirm $5 payment,200,OK,Thread Group 1-1,text,true,45556,1,1,0
+1458556966122,597,9. Logout,200,OK,Thread Group 1-1,text,true,8096,1,1,0

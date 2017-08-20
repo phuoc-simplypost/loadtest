@@ -1,0 +1,169 @@
+2017/08/13 13:06:41 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_SG 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: Loading user properties from: /Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/apache-jmeter-2.13/bin/user.properties 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: Loading system properties from: /Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/apache-jmeter-2.13/bin/system.properties 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: Copyright (c) 1998-2015 The Apache Software Foundation 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: Version 2.13 r1665067 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: java.version=1.8.0_131 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: os.name=Mac OS X 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: os.arch=x86_64 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: os.version=10.12.3 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: Default Locale=English (Singapore) 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: JMeter  Locale=English (Singapore) 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: JMeterHome=/Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/apache-jmeter-2.13 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: user.dir  =/Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/apache-jmeter-2.13/bin 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: PWD       =/Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/apache-jmeter-2.13/bin 
+2017/08/13 13:06:41 INFO  - jmeter.JMeter: IP: 192.168.0.104 Name: scorpions-MacBook-Pro.local FullName: 192.168.0.104 
+2017/08/13 13:06:42 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: com.apple.laf.AquaLookAndFeel [Mac OS X, System] 
+2017/08/13 13:06:42 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2017/08/13 13:06:44 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2017/08/13 13:06:44 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2017/08/13 13:06:46 WARN  - jmeter.gui.util.MenuFactory: Missing jar? Could not create kg.apc.jmeter.config.redis.RedisDataSet. java.lang.NoClassDefFoundError: org/apache/commons/pool/impl/GenericObjectPool$Config 
+2017/08/13 13:06:47 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion 
+2017/08/13 13:06:47 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor 
+2017/08/13 13:06:47 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor 
+2017/08/13 13:06:47 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/08/13 13:06:47 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/08/13 13:06:47 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/08/13 13:06:47 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/08/13 13:06:47 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2017/08/13 13:06:47 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2017/08/13 13:06:47 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.control.gui.SoapSamplerGui 
+2017/08/13 13:06:47 INFO  - jorphan.exec.KeyToolUtils: keytool found at 'keytool' 
+2017/08/13 13:06:47 INFO  - jmeter.protocol.http.proxy.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/apache-jmeter-2.13/bin/proxyserver.jks 
+2017/08/13 13:06:47 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler 
+2017/08/13 13:06:47 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:06:47 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:06:48 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer 
+2017/08/13 13:06:48 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener 
+2017/08/13 13:06:48 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2017/08/13 13:06:48 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2017/08/13 13:06:48 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2017/08/13 13:06:48 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2017/08/13 13:06:48 WARN  - jmeter.visualizers.ViewResultsFullVisualizer: Missing (check spelling error in renderer name) or already added(check doublon) result renderer, check property 'view.results.tree.renderers_order', renderer name:'org.apache.jmeter.extractor.json.render.RenderAsJsonRenderer' 
+2017/08/13 13:06:48 WARN  - jmeter.visualizers.ViewResultsFullVisualizer: Missing (check spelling error in renderer name) or already added(check doublon) result renderer, check property 'view.results.tree.renderers_order', renderer name:'org.apache.jmeter.visualizers.RenderAsHTMLFormatted' 
+2017/08/13 13:07:00 INFO  - jmeter.services.FileServer: Default base='/Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/apache-jmeter-2.13/bin' 
+2017/08/13 13:07:00 INFO  - jmeter.gui.action.Load: Loading file: /Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/Pc/SimplyPostLoadTestPlan.jmx 
+2017/08/13 13:07:00 INFO  - jmeter.services.FileServer: Set new base='/Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/Pc' 
+2017/08/13 13:07:00 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2017/08/13 13:07:00 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2017/08/13 13:07:00 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1656252 
+2017/08/13 13:07:00 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.8 
+2017/08/13 13:07:00 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2017/08/13 13:07:00 INFO  - jmeter.save.SaveService: Loading file: /Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/Pc/SimplyPostLoadTestPlan.jmx 
+2017/08/13 13:07:01 WARN  - jmeter.visualizers.ViewResultsFullVisualizer: Missing (check spelling error in renderer name) or already added(check doublon) result renderer, check property 'view.results.tree.renderers_order', renderer name:'org.apache.jmeter.extractor.json.render.RenderAsJsonRenderer' 
+2017/08/13 13:07:01 WARN  - jmeter.visualizers.ViewResultsFullVisualizer: Missing (check spelling error in renderer name) or already added(check doublon) result renderer, check property 'view.results.tree.renderers_order', renderer name:'org.apache.jmeter.visualizers.RenderAsHTMLFormatted' 
+2017/08/13 13:07:01 INFO  - jmeter.services.FileServer: Set new base='/Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/Pc' 
+2017/08/13 13:07:05 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:05 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:05 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:05 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:05 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:05 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:05 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:05 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:06 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:06 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:06 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:06 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:06 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:06 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:06 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:06 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:09 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:09 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:09 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:09 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:09 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:09 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:09 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:09 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:10 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:10 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:10 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:10 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:10 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:10 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:10 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:10 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:14 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:14 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:14 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:14 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:14 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:14 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:14 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:14 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:16 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:16 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:16 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:16 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:18 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:18 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:18 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:18 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:22 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:22 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:22 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:22 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:26 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:26 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:26 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:26 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:28 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:28 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:28 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:28 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:28 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:28 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:28 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:28 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:30 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:30 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:30 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:30 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:54 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:54 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:54 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:54 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:55 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:55 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:55 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:55 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:56 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:56 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:56 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:56 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:57 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:57 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:07:57 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:07:57 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:08:01 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:08:01 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:08:01 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:08:01 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:08:03 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:08:03 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:08:03 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:08:03 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:08:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:08:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:08:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:08:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:08:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:08:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:08:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:08:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:08:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:08:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:08:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:08:20 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:08:21 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:08:21 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/08/13 13:08:21 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/08/13 13:08:21 WARN  - jmeter.gui.tree.JMeterTreeNode: getIcon(): Can't obtain GUI class from org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 

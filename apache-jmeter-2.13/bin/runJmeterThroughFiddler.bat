@@ -1,0 +1,1 @@
+jmeter.bat -H localhost -P 8888

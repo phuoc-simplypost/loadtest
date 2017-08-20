@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="2.8" jmeter="2.13 r1665067">
+  <hashTree>
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="Test Plan" enabled="true">
+      <stringProp name="TestPlan.comments"></stringProp>
+      <boolProp name="TestPlan.functional_mode">false</boolProp>
+      <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
+      <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+        <collectionProp name="Arguments.arguments"/>
+      </elementProp>
+      <stringProp name="TestPlan.user_define_classpath"></stringProp>
+    </TestPlan>
+    <hashTree>
+      <kg.apc.jmeter.listener.GraphsGeneratorListener guiclass="TestBeanGUI" testclass="kg.apc.jmeter.listener.GraphsGeneratorListener" testname="jp@gc - Graphs Generator" enabled="true">
+        <boolProp name="aggregateRows">false</boolProp>
+        <boolProp name="autoScaleRows">false</boolProp>
+        <stringProp name="endOffset"></stringProp>
+        <stringProp name="excludeLabels"></stringProp>
+        <boolProp name="excludeSamplesWithRegex">false</boolProp>
+        <intProp name="exportMode">2</intProp>
+        <stringProp name="filePrefix"></stringProp>
+        <stringProp name="forceY"></stringProp>
+        <stringProp name="granulation">60000</stringProp>
+        <intProp name="graphHeight">600</intProp>
+        <intProp name="graphWidth">800</intProp>
+        <stringProp name="includeLabels"></stringProp>
+        <boolProp name="includeSamplesWithRegex">false</boolProp>
+        <stringProp name="limitRows">150</stringProp>
+        <stringProp name="lineWeight"></stringProp>
+        <stringProp name="lowCountLimit"></stringProp>
+        <stringProp name="outputBaseFolder">/Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/Pc/report</stringProp>
+        <boolProp name="paintGradient">true</boolProp>
+        <boolProp name="paintZeroing">true</boolProp>
+        <boolProp name="preventOutliers">false</boolProp>
+        <boolProp name="relativeTimes">true</boolProp>
+        <stringProp name="resultsFileName">/Users/scorpion/Documents/SimplyPost/postmanQA/LoadTest/Pc/Scenario1Report.jtl</stringProp>
+        <stringProp name="startOffset"></stringProp>
+        <stringProp name="successFilter"></stringProp>
+      </kg.apc.jmeter.listener.GraphsGeneratorListener>
+      <hashTree/>
+    </hashTree>
+  </hashTree>
+</jmeterTestPlan>

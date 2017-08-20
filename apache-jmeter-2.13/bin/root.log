@@ -1,0 +1,864 @@
+INFO  09/08, 01:54:26 org.elasticsearch.plugins [Chemistro] modules [], plugins [], sites []
+INFO  09/08, 01:54:32 elasticsearch.client.transport [Chemistro] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [0] timed out after [5002ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 01:54:37 elasticsearch.client.transport [Chemistro] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [1] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 01:54:47 elasticsearch.client.transport [Chemistro] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [2] timed out after [5000ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 01:54:57 elasticsearch.client.transport [Chemistro] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [3] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 01:55:07 elasticsearch.client.transport [Chemistro] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [4] timed out after [5002ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 01:55:17 elasticsearch.client.transport [Chemistro] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [5] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 01:55:27 elasticsearch.client.transport [Chemistro] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [6] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 01:55:37 elasticsearch.client.transport [Chemistro] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [7] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 01:59:58 org.elasticsearch.plugins [Polaris] modules [], plugins [], sites []
+INFO  09/08, 02:00:03 elasticsearch.client.transport [Polaris] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [0] timed out after [5002ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:00:08 elasticsearch.client.transport [Polaris] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [1] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:00:18 elasticsearch.client.transport [Polaris] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [2] timed out after [5000ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:00:28 elasticsearch.client.transport [Polaris] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [3] timed out after [5000ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:00:38 elasticsearch.client.transport [Polaris] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [4] timed out after [5000ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:00:48 elasticsearch.client.transport [Polaris] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [5] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:00:58 elasticsearch.client.transport [Polaris] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [6] timed out after [5000ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:01:35 org.elasticsearch.plugins [G-Force] modules [], plugins [], sites []
+INFO  09/08, 02:01:40 elasticsearch.client.transport [G-Force] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [0] timed out after [5000ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:01:45 elasticsearch.client.transport [G-Force] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [1] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:01:55 org.elasticsearch.plugins [Christopher Summers] modules [], plugins [], sites []
+INFO  09/08, 02:02:00 elasticsearch.client.transport [Christopher Summers] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [0] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:02:01 org.elasticsearch.plugins [Firearm] modules [], plugins [], sites []
+INFO  09/08, 02:02:05 elasticsearch.client.transport [Christopher Summers] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [1] timed out after [5002ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:02:06 elasticsearch.client.transport [Firearm] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [0] timed out after [5002ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:02:11 elasticsearch.client.transport [Firearm] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [1] timed out after [5000ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:02:21 org.elasticsearch.plugins [Ivan Kragoff] modules [], plugins [], sites []
+INFO  09/08, 02:02:26 elasticsearch.client.transport [Ivan Kragoff] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [0] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:02:31 elasticsearch.client.transport [Ivan Kragoff] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [1] timed out after [5002ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/08, 02:19:17 org.elasticsearch.plugins [Torgo of Mekka] modules [], plugins [], sites []
+WARN  09/08, 02:19:17 elasticsearch.client.transport [Torgo of Mekka] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 02:20:32 org.elasticsearch.plugins [Yith] modules [], plugins [], sites []
+WARN  09/08, 02:20:32 elasticsearch.client.transport [Yith] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 02:22:52 org.elasticsearch.plugins [Hisako Ichiki] modules [], plugins [], sites []
+WARN  09/08, 02:22:52 elasticsearch.client.transport [Hisako Ichiki] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 02:40:48 org.elasticsearch.plugins [Demolition Man] modules [], plugins [], sites []
+WARN  09/08, 02:40:48 elasticsearch.client.transport [Demolition Man] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+WARN  09/08, 02:40:53 elasticsearch.client.transport [Demolition Man] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+WARN  09/08, 02:40:58 elasticsearch.client.transport [Demolition Man] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+WARN  09/08, 02:41:03 elasticsearch.client.transport [Demolition Man] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+WARN  09/08, 02:41:08 elasticsearch.client.transport [Demolition Man] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 02:41:21 org.elasticsearch.plugins [Shriker] modules [], plugins [], sites []
+WARN  09/08, 02:41:22 elasticsearch.client.transport [Shriker] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+WARN  09/08, 02:41:27 elasticsearch.client.transport [Shriker] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 02:42:37 org.elasticsearch.plugins [Shocker] modules [], plugins [], sites []
+WARN  09/08, 02:42:37 elasticsearch.client.transport [Shocker] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 04:03:50 org.elasticsearch.plugins [Arkon] modules [], plugins [], sites []
+WARN  09/08, 04:03:50 elasticsearch.client.transport [Arkon] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+WARN  09/08, 04:03:55 elasticsearch.client.transport [Arkon] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+WARN  09/08, 04:04:00 elasticsearch.client.transport [Arkon] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+WARN  09/08, 04:04:05 elasticsearch.client.transport [Arkon] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 04:07:40 org.elasticsearch.plugins [Ms. MODOK] modules [], plugins [], sites []
+WARN  09/08, 04:07:40 elasticsearch.client.transport [Ms. MODOK] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 06:18:49 org.elasticsearch.plugins [Brian Braddock] modules [], plugins [], sites []
+WARN  09/08, 06:18:49 elasticsearch.client.transport [Brian Braddock] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 06:24:16 org.elasticsearch.plugins [Hermod] modules [], plugins [], sites []
+WARN  09/08, 06:24:16 elasticsearch.client.transport [Hermod] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 06:37:33 org.elasticsearch.plugins [Ultragirl] modules [], plugins [], sites []
+WARN  09/08, 06:37:33 elasticsearch.client.transport [Ultragirl] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+WARN  09/08, 06:37:38 elasticsearch.client.transport [Ultragirl] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 06:39:30 org.elasticsearch.plugins [Annie Ghazikhanian] modules [], plugins [], sites []
+WARN  09/08, 06:39:31 elasticsearch.client.transport [Annie Ghazikhanian] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 06:46:47 org.elasticsearch.plugins [Reeva Payge] modules [], plugins [], sites []
+WARN  09/08, 06:46:47 elasticsearch.client.transport [Reeva Payge] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 06:51:32 org.elasticsearch.plugins [Lockdown] modules [], plugins [], sites []
+WARN  09/08, 06:51:33 elasticsearch.client.transport [Lockdown] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 06:55:15 org.elasticsearch.plugins [Paladin] modules [], plugins [], sites []
+WARN  09/08, 06:55:15 elasticsearch.client.transport [Paladin] node {#transport#-1}{10.10.15.72}{10.10.15.72:9300} not part of the cluster Cluster [elasticsearch], ignoring...
+INFO  09/08, 07:02:00 org.elasticsearch.plugins [Feral] modules [], plugins [], sites []
+INFO  09/09, 10:12:35 org.elasticsearch.plugins [Madame MacEvil] modules [], plugins [], sites []
+INFO  09/09, 10:12:41 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [0] timed out after [5003ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:12:46 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [1] timed out after [5003ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:12:56 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [2] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:13:06 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [3] timed out after [5016ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:13:16 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [4] timed out after [5010ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:13:26 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [5] timed out after [5007ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:13:36 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [6] timed out after [5004ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:13:46 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [7] timed out after [5009ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:13:56 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [8] timed out after [5003ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:14:06 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [9] timed out after [5017ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:14:11 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+NodeDisconnectedException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] disconnected]
+INFO  09/09, 10:14:21 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [11] timed out after [5005ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:14:31 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [12] timed out after [5016ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:14:41 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [13] timed out after [5014ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:14:51 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [14] timed out after [5009ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:15:01 elasticsearch.client.transport [Madame MacEvil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9200}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9200][cluster:monitor/nodes/liveness] request_id [15] timed out after [5000ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/09, 10:20:49 org.elasticsearch.plugins [Yellow Claw] modules [], plugins [], sites []
+INFO  09/09, 11:10:44 org.elasticsearch.plugins [Hybrid] modules [], plugins [], sites []
+INFO  09/09, 11:22:35 org.elasticsearch.plugins [Amphibius] modules [], plugins [], sites []
+INFO  09/14, 09:45:43 org.elasticsearch.plugins [Satana] modules [], plugins [], sites []
+INFO  09/14, 09:55:48 org.elasticsearch.plugins [Gardener] modules [], plugins [], sites []
+INFO  09/14, 12:08:39 org.elasticsearch.plugins [Gabriel Summers] modules [], plugins [], sites []
+INFO  09/14, 12:32:38 org.elasticsearch.plugins [Surge] modules [], plugins [], sites []
+INFO  09/14, 12:33:06 org.elasticsearch.plugins [Rictor] modules [], plugins [], sites []
+INFO  09/14, 01:46:36 org.elasticsearch.plugins [Delilah] modules [], plugins [], sites []
+INFO  09/14, 01:54:13 org.elasticsearch.plugins [Spymaster] modules [], plugins [], sites []
+INFO  09/14, 01:55:52 org.elasticsearch.plugins [Meteorite] modules [], plugins [], sites []
+INFO  09/14, 02:09:55 org.elasticsearch.plugins [Astronomer] modules [], plugins [], sites []
+INFO  09/14, 02:12:29 org.elasticsearch.plugins [Meteorite] modules [], plugins [], sites []
+INFO  09/14, 02:12:39 org.elasticsearch.plugins [Banshee] modules [], plugins [], sites []
+INFO  09/14, 02:13:16 org.elasticsearch.plugins [Morning Star] modules [], plugins [], sites []
+INFO  09/14, 02:25:21 org.elasticsearch.plugins [Midnight Sun] modules [], plugins [], sites []
+INFO  09/14, 02:28:37 org.elasticsearch.plugins [Greer Grant] modules [], plugins [], sites []
+INFO  09/14, 02:29:48 org.elasticsearch.plugins [Bling] modules [], plugins [], sites []
+INFO  09/14, 02:31:35 org.elasticsearch.plugins [Blackwulf] modules [], plugins [], sites []
+INFO  09/14, 02:33:51 org.elasticsearch.plugins [Crimson and the Raven] modules [], plugins [], sites []
+INFO  09/14, 02:39:05 org.elasticsearch.plugins [Dusk] modules [], plugins [], sites []
+INFO  09/14, 02:41:02 org.elasticsearch.plugins [Dansen Macabre] modules [], plugins [], sites []
+INFO  09/14, 02:49:58 org.elasticsearch.plugins [Janet van Dyne] modules [], plugins [], sites []
+INFO  09/14, 03:10:15 org.elasticsearch.plugins [Chase Stein] modules [], plugins [], sites []
+INFO  09/14, 05:00:43 org.elasticsearch.plugins [Maximus] modules [], plugins [], sites []
+INFO  09/14, 05:00:57 org.elasticsearch.plugins [Sam Wilson] modules [], plugins [], sites []
+INFO  09/14, 05:04:29 org.elasticsearch.plugins [Baron Macabre] modules [], plugins [], sites []
+INFO  09/14, 05:06:13 org.elasticsearch.plugins [Rattler] modules [], plugins [], sites []
+INFO  09/14, 05:08:12 org.elasticsearch.plugins [Algrim the Strong] modules [], plugins [], sites []
+INFO  09/14, 05:19:05 org.elasticsearch.plugins [Margaret Power] modules [], plugins [], sites []
+INFO  09/14, 05:25:46 org.elasticsearch.plugins [Beetle II] modules [], plugins [], sites []
+INFO  09/14, 05:36:35 org.elasticsearch.plugins [Ronan the Accuser] modules [], plugins [], sites []
+INFO  09/14, 05:43:19 org.elasticsearch.plugins [Infinity] modules [], plugins [], sites []
+INFO  09/14, 05:44:06 org.elasticsearch.plugins [Amatsu-Mikaboshi] modules [], plugins [], sites []
+INFO  09/14, 05:51:36 org.elasticsearch.plugins [Veil] modules [], plugins [], sites []
+INFO  09/14, 06:57:58 elasticsearch.client.transport [Amatsu-Mikaboshi] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9300}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9300][cluster:monitor/nodes/liveness] request_id [425] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/14, 06:57:59 elasticsearch.client.transport [Veil] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9300}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9300][cluster:monitor/nodes/liveness] request_id [73] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:03 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0x4f1723fa]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:04 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0xc1528cc1]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:08 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0x17768644]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:09 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0x7d5fd4cc]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:13 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0xbdb7bc2b]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:14 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0xb7720332]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:18 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0x54aff9b3]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:19 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0x9ef73add]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:23 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0x1e235b1d]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:24 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0xacf8d725]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:28 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0x0fb537ed]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:29 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0x26b82c78]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:33 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0x5c044405]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:34 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0xeadc195b]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:38 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0x16ab5caf]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:39 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0x318785ec]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:43 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0x48a3c888]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:44 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0x2baac04b]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:48 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0xa7fcdcab]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:58:49 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0x297a8e99]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:59:23 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0xdb6e3691]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:59:23 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0xb2d66369]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:59:28 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0x4f40597b]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:59:28 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0x337c6fd8]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:59:33 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0xdc674f65]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:59:33 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0xa1b5e6ab]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:59:38 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0x132440d2]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:59:38 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0x4999b61c]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:59:43 .elasticsearch.transport.netty [Amatsu-Mikaboshi] exception caught on transport layer [[id: 0x31869bf3]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+WARN  09/14, 06:59:43 .elasticsearch.transport.netty [Veil] exception caught on transport layer [[id: 0x7108da48]], closing connection
+java.net.NoRouteToHostException: No route to host: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/15, 09:52:25 org.elasticsearch.plugins [She-Venom] modules [], plugins [], sites []
+INFO  09/15, 09:59:33 org.elasticsearch.plugins [Raza] modules [], plugins [], sites []
+INFO  09/15, 10:17:56 org.elasticsearch.plugins [Rocket Raccoon] modules [], plugins [], sites []
+INFO  09/15, 10:38:43 org.elasticsearch.plugins [Sekhmet] modules [], plugins [], sites []
+INFO  09/15, 11:06:09 org.elasticsearch.plugins [Karla Sofen] modules [], plugins [], sites []
+INFO  09/15, 11:08:40 org.elasticsearch.plugins [Shamrock] modules [], plugins [], sites []
+INFO  09/15, 11:55:59 org.elasticsearch.plugins [Energizer] modules [], plugins [], sites []
+INFO  09/15, 11:56:13 org.elasticsearch.plugins [Headlok] modules [], plugins [], sites []
+INFO  09/15, 12:21:38 org.elasticsearch.plugins [Max] modules [], plugins [], sites []
+INFO  09/15, 03:08:57 org.elasticsearch.plugins [St. John Allerdyce] modules [], plugins [], sites []
+INFO  09/15, 03:10:32 elasticsearch.client.transport [St. John Allerdyce] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9300}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9300][cluster:monitor/nodes/liveness] request_id [30] timed out after [5001ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/15, 03:11:13 org.elasticsearch.plugins [Virgo] modules [], plugins [], sites []
+INFO  09/15, 03:56:42 org.elasticsearch.plugins [Paste-Pot Pete] modules [], plugins [], sites []
+INFO  09/15, 04:05:09 org.elasticsearch.plugins [General Orwell Taylor] modules [], plugins [], sites []
+INFO  09/15, 04:45:40 org.elasticsearch.plugins [Franklin Hall] modules [], plugins [], sites []
+INFO  09/15, 04:47:50 org.elasticsearch.plugins [Tumbler] modules [], plugins [], sites []
+INFO  09/15, 04:51:42 org.elasticsearch.plugins [Power Skrull] modules [], plugins [], sites []
+INFO  09/15, 04:52:07 org.elasticsearch.plugins [Mimir] modules [], plugins [], sites []
+INFO  09/16, 09:54:18 org.elasticsearch.plugins [The Wink] modules [], plugins [], sites []
+INFO  09/16, 10:51:05 org.elasticsearch.plugins [Smuggler II] modules [], plugins [], sites []
+INFO  09/16, 10:51:33 org.elasticsearch.plugins [Freakshow] modules [], plugins [], sites []
+INFO  09/16, 10:51:51 org.elasticsearch.plugins [Photon] modules [], plugins [], sites []
+INFO  09/16, 11:10:06 org.elasticsearch.plugins [Set] modules [], plugins [], sites []
+INFO  09/16, 11:56:52 org.elasticsearch.plugins [Lin Sun] modules [], plugins [], sites []
+INFO  09/16, 12:01:03 org.elasticsearch.plugins [Graydon Creed] modules [], plugins [], sites []
+INFO  09/16, 12:19:58 org.elasticsearch.plugins [Mad Dog Rassitano] modules [], plugins [], sites []
+INFO  09/16, 12:21:48 org.elasticsearch.plugins [Johnny Storm] modules [], plugins [], sites []
+INFO  09/16, 01:46:41 org.elasticsearch.plugins [Captain Fate] modules [], plugins [], sites []
+INFO  09/16, 01:51:13 org.elasticsearch.plugins [Lodestone] modules [], plugins [], sites []
+INFO  09/16, 04:46:40 org.elasticsearch.plugins [gen Harada] modules [], plugins [], sites []
+INFO  09/19, 01:48:35 org.elasticsearch.plugins [Ape-Man] modules [], plugins [], sites []
+INFO  09/19, 02:45:18 org.elasticsearch.plugins [Armadillo] modules [], plugins [], sites []
+INFO  09/19, 03:16:08 org.elasticsearch.plugins [White Pilgrim] modules [], plugins [], sites []
+INFO  09/19, 03:18:25 org.elasticsearch.plugins [Prime] modules [], plugins [], sites []
+INFO  09/19, 03:37:36 org.elasticsearch.plugins [Centurius] modules [], plugins [], sites []
+INFO  09/19, 03:45:05 org.elasticsearch.plugins [Locus] modules [], plugins [], sites []
+INFO  09/19, 03:48:32 org.elasticsearch.plugins [Kofi Whitemane] modules [], plugins [], sites []
+INFO  09/19, 03:49:13 org.elasticsearch.plugins [Triton] modules [], plugins [], sites []
+INFO  09/19, 03:50:56 org.elasticsearch.plugins [Daytripper] modules [], plugins [], sites []
+INFO  09/19, 03:51:42 org.elasticsearch.plugins [Glob Herman] modules [], plugins [], sites []
+INFO  09/19, 04:33:02 org.elasticsearch.plugins [Wyatt Wingfoot] modules [], plugins [], sites []
+INFO  09/19, 04:35:38 org.elasticsearch.plugins [Blaze] modules [], plugins [], sites []
+INFO  09/19, 05:06:25 org.elasticsearch.plugins [Armageddon] modules [], plugins [], sites []
+INFO  09/19, 05:06:38 org.elasticsearch.plugins [Rama-Tut] modules [], plugins [], sites []
+INFO  09/19, 05:08:58 org.elasticsearch.plugins [Caiera] modules [], plugins [], sites []
+INFO  09/19, 05:09:38 org.elasticsearch.plugins [Sebastian Shaw] modules [], plugins [], sites []
+INFO  09/19, 05:11:52 org.elasticsearch.plugins [Kamuu] modules [], plugins [], sites []
+INFO  09/19, 05:14:56 org.elasticsearch.plugins [Mister Doll] modules [], plugins [], sites []
+INFO  09/19, 05:15:15 org.elasticsearch.plugins [Western Kid] modules [], plugins [], sites []
+INFO  09/19, 05:20:46 org.elasticsearch.plugins [Tusk] modules [], plugins [], sites []
+INFO  09/19, 05:21:15 org.elasticsearch.plugins [Richard Rider] modules [], plugins [], sites []
+INFO  09/19, 05:25:52 org.elasticsearch.plugins [Eliminator] modules [], plugins [], sites []
+INFO  09/19, 05:26:53 org.elasticsearch.plugins [Gladiator] modules [], plugins [], sites []
+INFO  09/19, 05:27:40 org.elasticsearch.plugins [Siryn] modules [], plugins [], sites []
+INFO  09/19, 06:00:12 org.elasticsearch.plugins [Captain Savage] modules [], plugins [], sites []
+INFO  09/20, 02:26:33 org.elasticsearch.plugins [Portal] modules [], plugins [], sites []
+INFO  09/22, 02:11:24 org.elasticsearch.plugins [Rattler] modules [], plugins [], sites []
+INFO  09/22, 04:38:41 org.elasticsearch.plugins [Manslaughter] modules [], plugins [], sites []
+INFO  09/22, 04:43:57 org.elasticsearch.plugins [Phalanx] modules [], plugins [], sites []
+INFO  09/23, 11:52:16 org.elasticsearch.plugins [Pluto] modules [], plugins [], sites []
+INFO  09/23, 11:53:10 org.elasticsearch.plugins [Northstar] modules [], plugins [], sites []
+INFO  09/23, 11:54:42 org.elasticsearch.plugins [Gaea] modules [], plugins [], sites []
+INFO  09/23, 12:12:13 org.elasticsearch.plugins [Golden Archer] modules [], plugins [], sites []
+INFO  09/23, 12:12:29 org.elasticsearch.plugins [Gregor Shapanka] modules [], plugins [], sites []
+INFO  09/23, 12:14:54 org.elasticsearch.plugins [Supernalia] modules [], plugins [], sites []
+INFO  09/23, 12:15:30 org.elasticsearch.plugins [Capricorn] modules [], plugins [], sites []
+INFO  09/23, 12:15:48 org.elasticsearch.plugins [Mahkizmo] modules [], plugins [], sites []
+INFO  09/23, 12:16:26 org.elasticsearch.plugins [Mentallo] modules [], plugins [], sites []
+INFO  09/23, 12:16:56 org.elasticsearch.plugins [Conrad Josten] modules [], plugins [], sites []
+INFO  09/23, 01:11:33 org.elasticsearch.plugins [Fatale] modules [], plugins [], sites []
+INFO  09/23, 01:19:46 org.elasticsearch.plugins [Aireo] modules [], plugins [], sites []
+INFO  09/23, 04:32:32 org.elasticsearch.plugins [Haven] modules [], plugins [], sites []
+INFO  09/26, 02:59:59 org.elasticsearch.plugins [Warstrike] modules [], plugins [], sites []
+INFO  09/26, 04:36:32 org.elasticsearch.plugins [Count Abyss] modules [], plugins [], sites []
+INFO  09/26, 05:53:48 org.elasticsearch.plugins [Thor] modules [], plugins [], sites []
+INFO  09/26, 05:56:35 org.elasticsearch.plugins [Joystick] modules [], plugins [], sites []
+INFO  09/26, 07:33:24 elasticsearch.client.transport [Joystick] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9300}, disconnecting...
+NodeDisconnectedException[[][10.10.15.72:9300][cluster:monitor/nodes/liveness] disconnected]
+INFO  09/27, 09:52:56 org.elasticsearch.plugins [Man-Bull] modules [], plugins [], sites []
+INFO  09/27, 01:09:40 org.elasticsearch.plugins [Captain Barracuda] modules [], plugins [], sites []
+INFO  09/27, 01:17:56 org.elasticsearch.plugins [Dominic Fortune] modules [], plugins [], sites []
+INFO  09/27, 01:22:40 org.elasticsearch.plugins [Jackpot] modules [], plugins [], sites []
+INFO  09/27, 01:32:02 elasticsearch.client.transport [Jackpot] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9300}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9300][cluster:monitor/nodes/liveness] request_id [202] timed out after [5014ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/27, 02:23:25 org.elasticsearch.plugins [Reaper] modules [], plugins [], sites []
+INFO  09/28, 10:33:14 org.elasticsearch.plugins [Dmitri Smerdyakov] modules [], plugins [], sites []
+INFO  09/28, 11:43:33 org.elasticsearch.plugins [Man-Wolf] modules [], plugins [], sites []
+INFO  09/28, 11:45:03 org.elasticsearch.plugins [Tethlam] modules [], plugins [], sites []
+INFO  09/28, 12:22:10 org.elasticsearch.plugins [Human Torch II] modules [], plugins [], sites []
+INFO  09/28, 01:25:38 org.elasticsearch.plugins [Adam II] modules [], plugins [], sites []
+INFO  09/28, 01:33:54 org.elasticsearch.plugins [Midas] modules [], plugins [], sites []
+INFO  09/28, 01:34:36 org.elasticsearch.plugins [Justin Hammer] modules [], plugins [], sites []
+INFO  09/28, 02:15:27 org.elasticsearch.plugins [Kogar] modules [], plugins [], sites []
+WARN  09/28, 02:24:59 org.elasticsearch.transport [Kogar] Transport response handler not found of id [161]
+INFO  09/28, 02:47:43 org.elasticsearch.plugins [Mortimer Toynbee] modules [], plugins [], sites []
+WARN  09/28, 02:47:45 org.elasticsearch.transport [Mortimer Toynbee] Transport response handler not found of id [1]
+INFO  09/28, 02:55:17 org.elasticsearch.plugins [Motormouth] modules [], plugins [], sites []
+INFO  09/28, 02:59:03 org.elasticsearch.plugins [Eric the Red] modules [], plugins [], sites []
+WARN  09/28, 02:59:11 org.elasticsearch.transport [Eric the Red] Transport response handler not found of id [2]
+INFO  09/28, 03:14:38 org.elasticsearch.plugins [Thunderstrike] modules [], plugins [], sites []
+WARN  09/28, 03:14:55 org.elasticsearch.transport [Thunderstrike] Transport response handler not found of id [4]
+INFO  09/29, 06:33:34 org.elasticsearch.plugins [Grappler] modules [], plugins [], sites []
+INFO  09/30, 02:06:28 org.elasticsearch.plugins [El Muerto] modules [], plugins [], sites []
+INFO  09/30, 02:15:20 elasticsearch.client.transport [El Muerto] failed to get node info for {#transport#-1}{10.10.15.72}{10.10.15.72:9300}, disconnecting...
+ReceiveTimeoutTransportException[[][10.10.15.72:9300][cluster:monitor/nodes/liveness] request_id [200] timed out after [5002ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:696)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  09/30, 03:52:05 org.elasticsearch.plugins [Devastator] modules [], plugins [], sites []
+INFO  09/30, 06:08:27 org.elasticsearch.plugins [Galaxy Master] modules [], plugins [], sites []
