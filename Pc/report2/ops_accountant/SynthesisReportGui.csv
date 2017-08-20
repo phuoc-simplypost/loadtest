@@ -1,8 +1,0 @@
-Label,# Samples,Average,Min,Max,90% Line,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
-View invoice details of DEX - summary view - the biggest one,500,654,87,93536,1605,4204.00,0.20%,.1,0.22,1559.6
-View invoice details of DEx - the biggest one,500,1364,315,68500,2160,3098.30,0.20%,.1,19.54,136292.6
-Print invoice of Dex. The biggest one.,500,619,80,158506,826,7081.36,0.20%,.1,0.05,327.9
-Assign task to drivers,100,502,91,4421,1146,631.92,80.00%,.0,0.01,412.0
-Search tracking id,4,985,756,1443,1443,278.13,0.00%,.0,0.01,4280.0
-Search multiple tracking id,4,0,0,0,0,0.00,100.00%,.0,0.00,1072.0
-TOTAL,1608,854,0,158506,1809,4921.20,5.41%,.4,17.16,43005.4
